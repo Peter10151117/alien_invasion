@@ -2,12 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e3fdd86-7240-45ab-84b9-40c8d771236b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dark sky.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ship.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/alien_invasion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/alien_invasion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alien.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bullet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/button.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/game_stats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oldsettings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/racecar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/racegame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raindrop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raindrops_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sec_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sound_effects.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/star.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stars_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temporary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dark sky.py" beforeDir="false" afterPath="$PROJECT_DIR$/dark sky.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/ship.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +107,29 @@
       <workItem from="1665673307531" duration="2603000" />
       <workItem from="1666142063359" duration="3297000" />
       <workItem from="1666191464392" duration="1635000" />
-      <workItem from="1666274439794" duration="5690000" />
+      <workItem from="1666274439794" duration="6215000" />
+      <workItem from="1666623616294" duration="1872000" />
+      <workItem from="1666796467567" duration="630000" />
+      <workItem from="1666879141208" duration="1451000" />
+      <workItem from="1667174133061" duration="2683000" />
+      <workItem from="1667393490452" duration="1307000" />
+      <workItem from="1667487952776" duration="1549000" />
+      <workItem from="1667574972147" duration="1262000" />
+      <workItem from="1667682758044" duration="1336000" />
+      <workItem from="1667745293684" duration="2513000" />
+      <workItem from="1667838003611" duration="1557000" />
+      <workItem from="1668092953846" duration="3055000" />
+      <workItem from="1668441406228" duration="1370000" />
+      <workItem from="1668443878953" duration="522000" />
+      <workItem from="1668648416044" duration="5801000" />
+      <workItem from="1668701456229" duration="1054000" />
+      <workItem from="1668718902300" duration="1740000" />
+      <workItem from="1668789761096" duration="145000" />
+      <workItem from="1669046268109" duration="2539000" />
+      <workItem from="1670255777565" duration="1912000" />
+      <workItem from="1670428531419" duration="4338000" />
+      <workItem from="1670441378626" duration="8779000" />
+      <workItem from="1670506982226" duration="4668000" />
     </task>
     <servers />
   </component>

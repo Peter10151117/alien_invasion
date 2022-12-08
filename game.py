@@ -1,6 +1,6 @@
 import sys
 import pygame
-from settings import Settings
+from oldsettings import Settings
 from ship import Ship
 
 
