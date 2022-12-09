@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e3fdd86-7240-45ab-84b9-40c8d771236b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/alien.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bullet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/button.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game_stats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oldsettings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/racecar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/racegame.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raindrop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/raindrops_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sec_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sound_effects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/star.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stars_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temporary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dark sky.py" beforeDir="false" afterPath="$PROJECT_DIR$/dark sky.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/ship.py" afterDir="false" />
-    </list>
+    <list default="true" id="9e3fdd86-7240-45ab-84b9-40c8d771236b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,6 +108,7 @@
       <workItem from="1670428531419" duration="4338000" />
       <workItem from="1670441378626" duration="8779000" />
       <workItem from="1670506982226" duration="4668000" />
+      <workItem from="1670602900235" duration="77000" />
     </task>
     <servers />
   </component>
